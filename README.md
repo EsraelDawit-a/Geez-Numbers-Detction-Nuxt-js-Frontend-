@@ -2,7 +2,10 @@
 
 # CSEC ASTU weekly_challenge_team_001
 Hackathon  weekly_challenge 
-Develop frontend Api to consume backend Api for Geez numbers detection and Translation to Arabic Numbers
+Develop frontend Api to consume backend Api 
+for Geez numbers detection and Translation to Arabic Numbers
+
+Made Wth Nuxt js
 
  Abigiya terefe 
  
