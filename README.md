@@ -1,7 +1,8 @@
 # Geez
 
-# weekly_challenge_team_001
-Hackathon  weekly_challenge
+# CSEC ASTU weekly_challenge_team_001
+Hackathon  weekly_challenge 
+Develop frontend Api to consume backend Api for Geez numbers detection and Translation to Arabic Numbers
 
  Abigiya terefe 
  
